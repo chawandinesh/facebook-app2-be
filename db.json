@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "firstname": "Pavan",
+      "surname": "Kothapalli",
+      "mobile_or_EmailId": "Pavankothapalli47@gmail.com",
+      "newPassword": "pavan@AHX1338",
+      "dateOfBirth": {
+        "day": "28",
+        "month": "3",
+        "year": "2002"
+      },
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "firstname": "Bhanu",
+      "surname": "Ch",
+      "mobile_or_EmailId": "1234567899",
+      "newPassword": "bhanu@ahex1",
+      "dateOfBirth": {
+        "day": "8",
+        "month": "7",
+        "year": "2014"
+      },
+      "gender": "Male",
+      "id": 2
+    },
+    {
+      "firstname": "Vasudev",
+      "surname": "Ahex",
+      "mobile_or_EmailId": "2345167889",
+      "newPassword": "ahex@vasudev3LPA",
+      "dateOfBirth": {
+        "day": "13",
+        "month": "6",
+        "year": "2016"
+      },
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "firstname": "Arthi",
+      "surname": "Surakshitha",
+      "mobile_or_EmailId": "9999999999",
+      "newPassword": "arthi@123",
+      "dateOfBirth": {
+        "day": "12",
+        "month": "6",
+        "year": "2010"
+      },
+      "gender": "Male",
+      "id": 4
+    }
+  ]
+}
