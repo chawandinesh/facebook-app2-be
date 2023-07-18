@@ -40,17 +40,62 @@
       "id": 3
     },
     {
-      "firstname": "Arthi",
-      "surname": "Surakshitha",
-      "mobile_or_EmailId": "9999999999",
-      "newPassword": "arthi@123",
+      "firstname": "vinay",
+      "surname": "ahex",
+      "mobile_or_EmailId": "9999999987",
+      "newPassword": "vinay@ahex1",
       "dateOfBirth": {
-        "day": "12",
-        "month": "6",
-        "year": "2010"
+        "day": "13",
+        "month": "7",
+        "year": "2014"
       },
       "gender": "Male",
       "id": 4
+    },
+    {
+      "firstname": "Akash",
+      "surname": "Ahex",
+      "mobile_or_EmailId": "9876543219",
+      "newPassword": "akash@65",
+      "dateOfBirth": {
+        "day": "1",
+        "month": "1",
+        "year": "2023"
+      },
+      "gender": "Male",
+      "id": 5
+    },
+    {
+      "firstname": "Santosh",
+      "surname": "ahex",
+      "mobile_or_EmailId": "9876543221",
+      "newPassword": "santosh@ahex124",
+      "dateOfBirth": {
+        "day": "9",
+        "month": "8",
+        "year": "2013"
+      },
+      "gender": "Male",
+      "id": 6
+    },
+    {
+      "firstname": "uday",
+      "surname": "ahex",
+      "mobile_or_EmailId": "9999999987",
+      "newPassword": "uday@265",
+      "dateOfBirth": {
+        "day": "9",
+        "month": "7",
+        "year": "2016"
+      },
+      "gender": "Male",
+      "id": 7
     }
+  ],
+  "friends": [
+
+  ],
+  "pendingRequest": [
+    
   ]
 }
