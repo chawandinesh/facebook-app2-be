@@ -93,9 +93,94 @@
     }
   ],
   "friends": [
-
+    {
+      "src": "https://images.unsplash.com/photo-1690088141648-3d6d6757cd6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1331&q=80",
+      "Name": "Gopi Krishna",
+      "profile": "",
+      "friendscount": "405",
+      "friendslist": [
+        {
+          "src": "https://scontent.fhyd5-1.fna.fbcdn.net/v/t39.30808-6/288939357_853439325617937_5876106679627857256_n.jpg?_nc_cat=108&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=foY0xjIoU50AX-S2KbF&_nc_ht=scontent.fhyd5-1.fna&oh=00_AfBb83QuackBQ2t1thXtgY11iC6Ba6vI7zZMaqwtK7UQZg&oe=64B2FF5E",
+          "Name": "Siva Sankar Naidu",
+          "profile": "",
+          "friendscount": "405"
+        },
+        {
+          "src": "https://scontent.fhyd5-1.fna.fbcdn.net/v/t39.30808-6/288939357_853439325617937_5876106679627857256_n.jpg?_nc_cat=108&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=foY0xjIoU50AX-S2KbF&_nc_ht=scontent.fhyd5-1.fna&oh=00_AfBb83QuackBQ2t1thXtgY11iC6Ba6vI7zZMaqwtK7UQZg&oe=64B2FF5E",
+          "Name": "Siva Sankar Naidu",
+          "profile": "",
+          "friendscount": "405"
+        }
+      ],
+      "userid": "1",
+      "id": 1
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1690088141648-3d6d6757cd6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1331&q=80",
+      "Name": "Gopi Krishna",
+      "profile": "",
+      "friendscount": "405",
+      "friendslist": [
+        {
+          "src": "https://scontent.fhyd5-1.fna.fbcdn.net/v/t39.30808-6/288939357_853439325617937_5876106679627857256_n.jpg?_nc_cat=108&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=foY0xjIoU50AX-S2KbF&_nc_ht=scontent.fhyd5-1.fna&oh=00_AfBb83QuackBQ2t1thXtgY11iC6Ba6vI7zZMaqwtK7UQZg&oe=64B2FF5E",
+          "Name": "Siva Sankar Naidu",
+          "profile": "",
+          "friendscount": "405"
+        },
+        {
+          "src": "https://scontent.fhyd5-1.fna.fbcdn.net/v/t39.30808-6/288939357_853439325617937_5876106679627857256_n.jpg?_nc_cat=108&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=foY0xjIoU50AX-S2KbF&_nc_ht=scontent.fhyd5-1.fna&oh=00_AfBb83QuackBQ2t1thXtgY11iC6Ba6vI7zZMaqwtK7UQZg&oe=64B2FF5E",
+          "Name": "Siva Sankar Naidu",
+          "profile": "",
+          "friendscount": "405"
+        }
+      ],
+      "userid": "1",
+      "id": 2
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1690088141648-3d6d6757cd6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1331&q=80",
+      "Name": "Gopi Krishna",
+      "profile": "",
+      "friendscount": "405",
+      "friendslist": [
+        {
+          "src": "https://scontent.fhyd5-1.fna.fbcdn.net/v/t39.30808-6/288939357_853439325617937_5876106679627857256_n.jpg?_nc_cat=108&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=foY0xjIoU50AX-S2KbF&_nc_ht=scontent.fhyd5-1.fna&oh=00_AfBb83QuackBQ2t1thXtgY11iC6Ba6vI7zZMaqwtK7UQZg&oe=64B2FF5E",
+          "Name": "Siva Sankar Naidu",
+          "profile": "",
+          "friendscount": "405"
+        },
+        {
+          "src": "https://scontent.fhyd5-1.fna.fbcdn.net/v/t39.30808-6/288939357_853439325617937_5876106679627857256_n.jpg?_nc_cat=108&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=foY0xjIoU50AX-S2KbF&_nc_ht=scontent.fhyd5-1.fna&oh=00_AfBb83QuackBQ2t1thXtgY11iC6Ba6vI7zZMaqwtK7UQZg&oe=64B2FF5E",
+          "Name": "Siva Sankar Naidu",
+          "profile": "",
+          "friendscount": "405"
+        }
+      ],
+      "userid": "1",
+      "id": 3
+    },
+    {
+      "src": "https://scontent.fhyd5-1.fna.fbcdn.net/v/t1.6435-9/82485687_3631017270429119_4061451719412809728_n.jpg?_nc_cat=110&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=OQk8uQzM3CYAX86NPlO&_nc_ht=scontent.fhyd5-1.fna&oh=00_AfDNlSkvGv8C6F2pW8HXbebU7rFCmEEfc7vxS5w3vuK4LQ&oe=64CCADB4",
+      "Name": "Rpk Raju",
+      "profile": "",
+      "friendscount": "405",
+      "friendslist": [
+        {
+          "src": "https://scontent.fhyd5-1.fna.fbcdn.net/v/t39.30808-6/288939357_853439325617937_5876106679627857256_n.jpg?_nc_cat=108&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=foY0xjIoU50AX-S2KbF&_nc_ht=scontent.fhyd5-1.fna&oh=00_AfBb83QuackBQ2t1thXtgY11iC6Ba6vI7zZMaqwtK7UQZg&oe=64B2FF5E",
+          "Name": "Siva Sankar Naidu",
+          "profile": "",
+          "friendscount": "405"
+        },
+        {
+          "src": "https://scontent.fhyd5-1.fna.fbcdn.net/v/t39.30808-6/288939357_853439325617937_5876106679627857256_n.jpg?_nc_cat=108&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=foY0xjIoU50AX-S2KbF&_nc_ht=scontent.fhyd5-1.fna&oh=00_AfBb83QuackBQ2t1thXtgY11iC6Ba6vI7zZMaqwtK7UQZg&oe=64B2FF5E",
+          "Name": "Siva Sankar Naidu",
+          "profile": "",
+          "friendscount": "405"
+        }
+      ],
+      "userid": "1",
+      "id": 4
+    }
   ],
-  "pendingRequest": [
-    
-  ]
+  "pendingRequest": []
 }
